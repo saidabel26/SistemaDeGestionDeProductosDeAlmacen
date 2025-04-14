@@ -8,7 +8,7 @@
 ## 🛠 Tecnologías Utilizadas
 - **Java 17** (JDK).
 - **Swing** (Interfaz gráfica).
-- **MySQL** (Base de datos).
+- **SQL Server** (Base de datos).
 - **Patrones de Diseño**: Singleton, DAO.
 
 ## 🚀 Instalación y Ejecución
