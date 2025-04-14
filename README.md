@@ -2,8 +2,8 @@
 
 - **Aplicación Java Swing** con conexión a SQL Server local para registro, login y CRUD de productos y usuarios.
 - **Autor**: Said De Oleo.
-- **Matrícula**: 20241789.
-- **Asignatura**: Programación Orientada a Objetos.
+- **Matrícula**: 2024-1789.
+- **Asignatura**: Programación l.
 
 ## 🛠 Tecnologías Utilizadas
 - **Java 17** (JDK).
