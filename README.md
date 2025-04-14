@@ -20,7 +20,7 @@
 
 ### Clonar el repositorio:
 ```bash
-  git clone https://github.com/tu-usuario/SistemaDeGestionDeProductosDeAlmacen.git
+  git clone https://github.com/saidabel26/SistemaDeGestionDeProductosDeAlmacen.git
 ```
 
 ## 🔧 Configurar la Base de Datos
