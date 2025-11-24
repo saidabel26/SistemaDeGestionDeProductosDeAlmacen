@@ -21,7 +21,7 @@
 ```
 
 ## 🔧 Configurar la Base de Datos
-**Ejecuta en MySQL:**
+**Ejecuta en SQL Server:**
 
     CREATE DATABASE AlmacenDB;
     GO
