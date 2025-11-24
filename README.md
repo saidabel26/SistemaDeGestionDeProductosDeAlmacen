@@ -1,26 +1,23 @@
 # 📋 Sistema de Gestión de Almacén
 
-- **Aplicación Java Swing** con conexión a SQL Server local para registro, login y CRUD de productos y usuarios.
-- **Autor**: Said De Oleo.
-- **Matrícula**: 20241789.
-- **Asignatura**: Programación Orientada a Objetos.
+- **Asignatura**: Programación l.
 
 ## 🛠 Tecnologías Utilizadas
 - **Java 17** (JDK).
 - **Swing** (Interfaz gráfica).
-- **MySQL** (Base de datos).
+- **SQL Server** (Base de datos).
 - **Patrones de Diseño**: Singleton, DAO.
 
 ## 🚀 Instalación y Ejecución
 
 ### Requisitos Previos:
-- MySQL Server instalado.
+- SQL Server instalado.
 - Java 17 o superior.
-- Librería [Microsoft JDBC Driver](https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16) en `src/lib/`.
+- Librería [Microsoft JDBC Driver](https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16) en `lib/`.
 
 ### Clonar el repositorio:
 ```bash
-  git clone https://github.com/tu-usuario/SistemaDeGestionDeProductosDeAlmacen.git
+  git clone https://github.com/saidabel26/SistemaDeGestionDeProductosDeAlmacen.git
 ```
 
 ## 🔧 Configurar la Base de Datos
@@ -55,7 +52,7 @@
 1. **Importar**: En tu IDE, abre la carpeta `SistemaDeGestionDeProductosDeAlmacen`.
 2. **Ejecutar**:
     - Clase principal: `src/Main.java`.
-    - Dependencia: Asegúrate de tener `msssql-jdbc-(versión).jre11.jar` en `src/lib/`.
+    - Dependencia: Asegúrate de tener `msssql-jdbc-(versión).jre11.jar` en `lib/`.
 
 ## 📂 Estructura del Proyecto
     SistemaDeGestionDeProductosDeAlmacen/
